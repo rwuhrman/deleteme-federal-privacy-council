@@ -1,7 +1,5 @@
 primary:
-  - text: Federal Privacy Council
-    href: /federal-privacy-council/
-  - text: Law Library
+   - text: Law Library
     links:
       - text: Demo link A
         href: /two/a/
@@ -9,6 +7,9 @@ primary:
         href: /two/b/
       - text: Demo link C
         href: /two/c/
+  - text: Federal Privacy Council
+    href: /federal-privacy-council/
+
   - text: Resources
     links:
       - text: Demo link A
