@@ -17,10 +17,6 @@ primary:
       - text: Other Councils
         href: /two/c/
 
-    - text: Law Library
-      href: /law-library/
-    
-        
         
 footer:
   - text: Documentation
