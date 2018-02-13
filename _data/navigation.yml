@@ -1,25 +1,25 @@
 primary:
-  - text: Federal Privacy Council
-    href: /federal-privacy-council/
+  - text: Home
+    href: /
     
+  - text: Federal Privacy Council
+    links:
+      - text: Purpose
+        href: /two/a/
+      - text: Vision
+        href: /two/b/
+      - text: Objectives
+        href: /two/c/
+      - text: Organization
+        href: /two/a/
+      - text: Council Members
+        href: /two/b/
+      - text: Other Councils
+        href: /two/c/
+
+
   - text: Law Library
-    links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-
-
-  - text: Resources
-    links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
+    href: /law-library/
         
         
         
