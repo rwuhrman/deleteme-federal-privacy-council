@@ -2,9 +2,7 @@ primary:
   - text: Home
     href: /
     
-    - text: Law
-    href: /law/
-    
+ 
   - text: Federal Privacy Council
     links:
       - text: Purpose
