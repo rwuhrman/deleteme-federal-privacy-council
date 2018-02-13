@@ -9,7 +9,17 @@ primary:
         href: /two/b/
       - text: Demo link C
         href: /two/c/
-
+  - text: Resources
+    links:
+      - text: Demo link A
+        href: /two/a/
+      - text: Demo link B
+        href: /two/b/
+      - text: Demo link C
+        href: /two/c/
+        
+        
+        
 footer:
   - text: Documentation
     href: /docs/
