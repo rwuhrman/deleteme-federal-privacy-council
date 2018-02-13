@@ -17,6 +17,21 @@ primary:
       - text: Other Councils
         href: /two/c/
 
+    - text: Law Library
+    links:
+      - text: Purpose
+        href: /two/a/
+      - text: Vision
+        href: /two/b/
+      - text: Objectives
+        href: /two/c/
+      - text: Organization
+        href: /two/a/
+      - text: Council Members
+        href: /two/b/
+      - text: Other Councils
+        href: /two/c/
+        
         
 footer:
   - text: Documentation
