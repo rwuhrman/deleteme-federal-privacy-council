@@ -1,7 +1,7 @@
 primary:
-  - text: Documentation
-    href: /docs/
-  - text: Navigation section
+  - text: Federal Privacy Council
+    href: /federal-privacy-council/
+  - text: Law Library
     links:
       - text: Demo link A
         href: /two/a/
