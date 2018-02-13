@@ -20,7 +20,26 @@ primary:
 
   - text: Law Library
     href: /law-library/
-        
+
+ - text: Resources
+    links:
+      - text: Federal Privacy Programs
+        href: /two/a/
+      - text: Office of Management and Budget (OMB)
+        href: /two/b/
+      - text: Privacy and Civil Liberties Oversight Board
+        href: /two/c/
+      - text: National Institute of Standards and Technology (NIST)
+        href: /two/a/
+      - text: Helping Consumers
+        href: /two/b/
+      - text: Government-wide SORNS
+        href: /two/c/
+      - text: Beyond the Executive Branch
+        href: /two/a/
+      - text: Glossary
+        href: /two/b/
+       
         
         
 footer:
